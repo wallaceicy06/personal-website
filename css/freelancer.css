@@ -52,7 +52,7 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #2c3e50;
+    border-color: #c9f2e6;
 }
 
 hr.star-light:after {
@@ -79,7 +79,7 @@ header {
 }
 
 header .background {
-    background-image: url("../img/pittsburgh_faded.jpg");
+    background-image: url("../img/rice_saturated.jpg");
     background-size: cover;
 }
 
@@ -100,13 +100,13 @@ header .intro-text .name {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
-    color: #2c3e50;
+    color: #c9f2e6;
 }
 
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
-    color: #2c3e50;
+    color: #c9f2e6;
 }
 
 @media(min-width:768px) {
