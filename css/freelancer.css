@@ -79,7 +79,7 @@ header {
 }
 
 header .background {
-    background-image: url("../img/rice_saturated.jpg");
+    background-image: url("../img/lost_coast.jpg");
     background-size: cover;
 }
 
@@ -100,13 +100,14 @@ header .intro-text .name {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
-    color: #c9f2e6;
+    color: #fddf99;
+    text-shadow: 2px 2px 16px #000000;
 }
 
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
-    color: #c9f2e6;
+    color: #fddf99;
 }
 
 @media(min-width:768px) {
