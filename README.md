@@ -1,4 +1,4 @@
-personalwebsite
-===============
+My Personal Website
+===================
 
-My personal website hosted at seanharger.com
+My personal website hosted at [seanharger.com](http://seanharger.com)
