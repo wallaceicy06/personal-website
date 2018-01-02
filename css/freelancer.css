@@ -79,7 +79,7 @@ header {
 }
 
 header .background {
-    background-image: url("../img/lost_coast.jpg");
+    background-image: url("../img/marin_headlands.jpg");
     background-size: cover;
 }
 
@@ -100,7 +100,7 @@ header .intro-text .name {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
-    color: #fddf99;
+    color: rgba(244, 214, 103, 1);
     text-shadow: 2px 2px 16px #000000;
 }
 
